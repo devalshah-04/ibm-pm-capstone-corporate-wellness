@@ -134,22 +134,6 @@ for Meridian Logistics Pvt Ltd
 
 ---
 
-## 5. How to Use This for Your GOQii Interview
-
-When discussing this project, frame it honestly and it becomes a *strength*:
-
-> *"To prepare for this role, I completed IBM's project management capstone and
-> deliberately modeled my practice project on the kind of corporate wellness deployment
-> GOQii's enterprise team actually executes — referencing the Corporate Challenge, AI
-> coaching model, and the India Fit Report. I built the full project charter, stakeholder
-> RACI, WBS, risk register, and ran the app configuration workstream through Agile
-> sprints with a burndown chart — essentially a dry-run of what a Project Coordinator
-> at GOQii would own."*
-
-This signals: **company research + initiative + honest framing + real PM artifacts.**
-
----
-
 ## Sources (Public)
 
 1. GOQii Corporate Wellness — official program page.
